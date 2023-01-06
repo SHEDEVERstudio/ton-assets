@@ -1,0 +1,12 @@
+name: Energy Cells
+description: Energy Cells (ENRG) is a governance investment token used in the gaming ecosystem of the SHEDEVER studio to vote for the development of the studio's projects and purchase the basic cross-game resource - Energy. Each game project from the SHEDEVER studio is an independent source of liquidity for ENRG.
+address: 0:c0eafee8952bd9084af6c8d85494ce1e067445d7596c1cbaed92487b3123080a
+symbol: ENRG
+max_supply: 100000000
+websites:
+  - "https://shedever.studio"
+  - "https://chesszombies.fun"
+social:
+  - "https://t.me/chesszombies"
+  - "https://twitter.com/ShedEVERstudio"
+  - "https://discord.gg/kPxnUZEeFM"
